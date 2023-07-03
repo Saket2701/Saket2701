@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **saketb2003@gmail.com**
 
-- 📄 Here is my Curriculum Vitae [CV](https://drive.google.com/file/d/1vZATJe7aYaB0xEEYp29N0vqzTBSbyPux/view?usp=sharing)
+- 📄 Here is my Curriculum Vitae [CV](https://drive.google.com/file/d/1VFv-0fxv0xKCjEiN0fuPyh1Afcz3a0SR/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a professional napper. I can sleep through anything... except my alarm clock.**
 
