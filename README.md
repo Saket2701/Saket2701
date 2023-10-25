@@ -4,7 +4,7 @@
 <h1 align="center">I'm Saket Balabhadruni! 🧑‍💻</h1>
 <h3 align="center">I am pursuing web development in HTML, CSS, JavaScript. I am gaining knowledge of popular frameworks such as ASP.NET. Constantly making efforts to evolve. I am highly motivated to contribute my full range of skills and abilities towards achieving the goals of the organization.</h3>
 
-<img align="right" alt="Naruto" width="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/349b737f-a7b5-42e2-b741-e0867058ba6b/d61wdlo-bdc6c087-afa4-4d10-8f87-7a130f446438.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM0OWI3MzdmLWE3YjUtNDJlMi1iNzQxLWUwODY3MDU4YmE2YlwvZDYxd2Rsby1iZGM2YzA4Ny1hZmE0LTRkMTAtOGY4Ny03YTEzMGY0NDY0MzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oqWteC4LkomUttPGDqPWNWrJesuAXt91jqFLlSaWkXk">
+<img align="right" alt="Naruto" width="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/349b737f-a7b5-42e2-b741-e0867058ba6b/d61wdlo-bdc6c087-afa4-4d10-8f87-7a130f446438.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM0OWI3MzdmLWE3YjUtNDJlMi1iNzQxLWUwODY3MDU4YmE2YlwvZDYxd2Rsby1iZGM2YzA4Ny1hZmE0LTRkMTAtOGY4Ny03YTEzMGY0NDY0MzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oqWteC4LkomUttPGDqPWNWrJesuAXt91jqFLlSaWkXk">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saket2701&label=Profile%20views&color=0e75b6&style=flat" alt="saket2701" /> </p>
 
@@ -47,7 +47,7 @@
 ## 🔥 GitHub Stats
 
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200">
 
 <a href="https://github.com/Saket2701"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Saket2701&theme=radical&title_color=ff3068"></a>
 <a href="https://github.com/Saket2701"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Saket2701&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
