@@ -44,6 +44,10 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="50">
 </div>
 <br>
+
+### <img align='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width='29' /> Embrace the fun:
+<img src="https://readme-jokes.vercel.app/api?bgColor=%230c1414&color=%232596be" alt="Error fetching resource, Refresh again to view Jokes Card" width='11000' />
+
 <details>
 <summary><samp><b>&#9776;See more details</b></samp></summary>
 </summary>
@@ -53,8 +57,11 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200">
 
 <a href="https://github.com/Saket2701"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Saket2701&theme=radical&title_color=ff3068"></a>
-<a href="https://github.com/Saket2701"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Saket2701&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-<td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket2701&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=141321&theme=radical&text_color=81A1C1&title_color=ff3068&icon_color=ff3068"/></a></td>
+<a href="https://github.com/Saket2701"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Saket2701&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a><td>
+
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="300" frameBorder="0" class="giphy-embed">
+
+<a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket2701&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=141321&theme=radical&text_color=81A1C1&title_color=ff3068&icon_color=ff3068"/></a></td>
 
 ## 📘 My Top Open Source Projects
 
