@@ -54,7 +54,7 @@
 
 <a href="https://github.com/Saket2701"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Saket2701&theme=radical&title_color=ff3068"></a>
 <a href="https://github.com/Saket2701"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Saket2701&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-<td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket2701&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=ff3068&icon_color=ff3068"/></a></td>
+<td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket2701&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=141321&theme=radical&text_color=81A1C1&title_color=ff3068&icon_color=ff3068"/></a></td>
 
 ## 📘 My Top Open Source Projects
 
