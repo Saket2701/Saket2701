@@ -54,14 +54,13 @@
 
 <a href="https://github.com/Saket2701"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Saket2701&theme=radical&title_color=ff3068"></a>
 <a href="https://github.com/Saket2701"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Saket2701&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket2701&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=ff3068&icon_color=ff3068"/></a></td>
 
 ## 📘 My Top Open Source Projects
 
-<p align="left">
-  <a href="https://github.com/Saket2701/Customer-Information-Management-Form"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Saket2701&repo=Customer-Information-Management-Form&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Customer Information Management Form"></a>
-  <a href="https://github.com/Saket2701/Algorithm-Simulator"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Saket2701&repo=Algorithm-Simulator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Algorithm Simulator"></a>
- <a href="https://github.com/Saket2701/AdventureWorks"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Saket2701&repo=AdventureWorks&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="AdventureWorks"></a>
-</p>
+[![Customer Information Management Form](https://img.shields.io/static/v1?label=Customer%20Information%20Management%20Form&message=GitHub&color=F85D7F&logo=github)](https://github.com/Saket2701/Customer-Information-Management-Form)
+[![Algorithm Simulator](https://img.shields.io/static/v1?label=Algorithm%20Simulator&message=GitHub&color=F85D7F&logo=github)](https://github.com/Saket2701/Algorithm-Simulator)
+[![AdventureWorks](https://img.shields.io/static/v1?label=AdventureWorks&message=GitHub&color=F85D7F&logo=github)](https://github.com/Saket2701/AdventureWorks)
 
 <p align="left">
   <a href="https://github.com/Saket2701?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
