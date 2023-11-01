@@ -1,8 +1,8 @@
 <img  align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="1900" />
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+🧑‍💻;This+is+Saket+....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+<a href="https://git.io/typing-svg"  align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Saket+💡;Transforming+Ideas+into+Code+💻;Let's+build+awesome+things!&size=25">
+</a>
 </h1>
 <h3 align="center">I am pursuing web development in HTML, CSS, JavaScript. I am gaining knowledge of popular frameworks such as ASP.NET. Constantly making efforts to evolve. I am highly motivated to contribute my full range of skills and abilities towards achieving the goals of the organization.</h3>
 
@@ -66,6 +66,5 @@
   <a href="https://github.com/Saket2701?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 </details>
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1900">
