@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+🧑‍💻;This+is+Saket+....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h3 align="center" style="color: white">I am pursuing web development in HTML, CSS, JavaScript. I am gaining knowledge of popular frameworks such as ASP.NET. Constantly making efforts to evolve. I am highly motivated to contribute my full range of skills and abilities towards achieving the goals of the organization.</h3>
+<h3 align="center">I am pursuing web development in HTML, CSS, JavaScript. I am gaining knowledge of popular frameworks such as ASP.NET. Constantly making efforts to evolve. I am highly motivated to contribute my full range of skills and abilities towards achieving the goals of the organization.</h3>
 
 <img align="right" alt="Naruto" width="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/349b737f-a7b5-42e2-b741-e0867058ba6b/d61wdlo-bdc6c087-afa4-4d10-8f87-7a130f446438.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM0OWI3MzdmLWE3YjUtNDJlMi1iNzQxLWUwODY3MDU4YmE2YlwvZDYxd2Rsby1iZGM2YzA4Ny1hZmE0LTRkMTAtOGY4Ny03YTEzMGY0NDY0MzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oqWteC4LkomUttPGDqPWNWrJesuAXt91jqFLlSaWkXk">
 
