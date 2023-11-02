@@ -47,7 +47,6 @@
 
 ### <img align='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width='29' /> Embrace the fun:
 <img src="https://readme-jokes.vercel.app/api?bgColor=%230c1414&color=%232596be" alt="Error fetching resource, Refresh again to view Jokes Card" width='11000' />
-
 <details>
 <summary><samp><b>&#9776;See more details</b></samp></summary>
 </summary>
