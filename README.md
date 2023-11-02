@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Saket+💡;Transforming+Ideas+into+Code+💻;Let's+build+awesome+things!&size=25">
 </a>
 </h1>
-<h3 align="center">I am pursuing web development in HTML, CSS, JavaScript. I am gaining knowledge of popular frameworks such as ASP.NET. Constantly making efforts to evolve. I am highly motivated to contribute my full range of skills and abilities towards achieving the goals of the organization.</h3>
+<h3 align="center">I am pursuing web development in HTML, CSS, JavaScript. I am gaining knowledge of popular frameworks such as ASP.NET, and tools like Power BI. Constantly making efforts to evolve. I am highly motivated to contribute my full range of skills and abilities towards achieving the goals of any organization.</h3>
 
 <img align="right" alt="Naruto" width="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/349b737f-a7b5-42e2-b741-e0867058ba6b/d61wdlo-bdc6c087-afa4-4d10-8f87-7a130f446438.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM0OWI3MzdmLWE3YjUtNDJlMi1iNzQxLWUwODY3MDU4YmE2YlwvZDYxd2Rsby1iZGM2YzA4Ny1hZmE0LTRkMTAtOGY4Ny03YTEzMGY0NDY0MzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oqWteC4LkomUttPGDqPWNWrJesuAXt91jqFLlSaWkXk">
 
@@ -13,6 +13,8 @@
 - 📫 How to reach me **saketb2003@gmail.com**
 
 - 📄 Here is my Curriculum Vitae [CV](https://drive.google.com/file/d/1EP2WgK_CjebibP5ZFOq1X9F5zDaV8elM/view?usp=sharing)
+
+- To know about me 👨‍💻 visit my Personal Website [Portfolio](https://saket2701.github.io/My_Portfolio/)
 
 - ⚡ Fun fact **I'm a professional napper. I can sleep through anything... except my alarm clock.**
 
@@ -47,6 +49,7 @@
 
 ### <img align='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width='29' /> Embrace the fun:
 <img src="https://readme-jokes.vercel.app/api?bgColor=%230c1414&color=%232596be" alt="Error fetching resource, Refresh again to view Jokes Card" width='11000' />
+
 <details>
 <summary><samp><b>&#9776;See more details</b></samp></summary>
 </summary>
