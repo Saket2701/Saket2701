@@ -56,21 +56,16 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200">
 
 <a href="https://github.com/Saket2701"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Saket2701&theme=radical&title_color=ff3068"></a>
-<a href="https://github.com/Saket2701"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Saket2701&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a><td>
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="300" frameBorder="0" class="giphy-embed">
 
+<a href="https://github.com/Saket2701"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Saket2701&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a><td>
+
 <a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket2701&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=141321&theme=radical&text_color=81A1C1&title_color=ff3068&icon_color=ff3068"/></a></td>
 
-## 📘 My Top Open Source Projects
-
-[![Customer Information Management Form](https://img.shields.io/static/v1?label=Customer%20Information%20Management%20Form&message=GitHub&color=F85D7F&logo=github)](https://github.com/Saket2701/Customer-Information-Management-Form)
-[![Algorithm Simulator](https://img.shields.io/static/v1?label=Algorithm%20Simulator&message=GitHub&color=F85D7F&logo=github)](https://github.com/Saket2701/Algorithm-Simulator)
-[![AdventureWorks](https://img.shields.io/static/v1?label=AdventureWorks&message=GitHub&color=F85D7F&logo=github)](https://github.com/Saket2701/AdventureWorks)
-
+<br>
 <p align="left">
   <a href="https://github.com/Saket2701?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 </details>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1900">
