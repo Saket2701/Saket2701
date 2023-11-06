@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **saketb2003@gmail.com**
 
-- 📄 Here is my Curriculum Vitae [CV](https://drive.google.com/file/d/1EP2WgK_CjebibP5ZFOq1X9F5zDaV8elM/view?usp=sharing)
+- 📄 Here is my Curriculum Vitae [CV](https://drive.google.com/file/d/1F3zhXM0V371iZ-4ycOI-ZdaSR8woUlD4/view?usp=sharing)
 
 - To know about me 👨‍💻 visit my Personal Website [Portfolio](https://saket2701.github.io/My_Portfolio/)
 
