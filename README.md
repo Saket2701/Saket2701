@@ -15,8 +15,8 @@
 - 📄 Here is my Curriculum Vitae [CV](https://drive.google.com/file/d/1xzCk8MY2rVC-UyHpXjLiOClEjBRBjS6L/view?usp=sharing)
 
 - To know about me 👨‍💻 visit my Personal Website [Portfolio](https://saket2701.github.io/My_Portfolio/)
-
-- ⚡ Fun fact **I'm a professional napper. I can sleep through anything... except my alarm clock.**
+  
+- 👯 I’m looking to collaborate on **different projects and new ideas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
