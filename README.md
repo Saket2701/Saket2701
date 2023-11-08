@@ -64,9 +64,12 @@
 
 <a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket2701&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=141321&theme=radical&text_color=81A1C1&title_color=ff3068&icon_color=ff3068"/></a></td>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Saket2701&theme=dracula)
+
 <br>
 <p align="left">
   <a href="https://github.com/Saket2701?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+
 </details>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1900">
