@@ -64,11 +64,10 @@
 
 <a href="https://github.com/Saket2701"><img width="50%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saket2701&layout=compact&langs_count=4&theme=tokyonight"></a>
 
-<a href="https://github.com/Saket2701"><img width="70%" height="180em" src="https://github-profile-trophy.vercel.app/?username=Saket2701&theme=tokyonight"></a>
+<a href="https://github.com/Saket2701"><img width="70%" height="120em" src="https://github-profile-trophy.vercel.app/?username=Saket2701&theme=tokyonight"></a>
 
 <p align="left">
   <a href="https://github.com/Saket2701?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-
 </details>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1900">
