@@ -56,7 +56,7 @@
   
  ## 🔥 GitHub Stats
  
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="300" frameBorder="0" class="giphy-embed">
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <a href="https://github.com/Saket2701"><img width="50%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saket2701&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></a>
 
