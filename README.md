@@ -10,11 +10,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saket2701&label=Profile%20views&color=0e75b6&style=flat" alt="saket2701" /> </p>
 
-- 📫 How to reach me **saketb2003@gmail.com**
+- 📫 How to reach me <a href="saketb2003@gmail.com"><img src="https://img.shields.io/badge/-saketb2003@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-- 📄 Here is my Curriculum Vitae [CV](https://drive.google.com/file/d/1xzCk8MY2rVC-UyHpXjLiOClEjBRBjS6L/view?usp=sharing)
+- 📄 Here is my Resume [![CV](https://img.shields.io/static/v1?label=🔗&message=Doc&color=blue)](https://drive.google.com/file/d/1xzCk8MY2rVC-UyHpXjLiOClEjBRBjS6L/view?usp=sharing)
 
-- To know about me 👨‍💻 visit my Personal Website [Portfolio](https://saket2701.github.io/My_Portfolio/)
+- To know about me 👨‍💻 visit my Personal Website [![Portfolio](https://img.shields.io/static/v1?label=🌱&message=Portfolio&color=tokyonight)](https://saket2701.github.io/My_Portfolio/)
   
 - 👯 I’m looking to collaborate on **different projects and new ideas**
 
@@ -47,8 +47,8 @@
 </div>
 <br>
 
-### <img align='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width='29' /> Embrace the fun:
-<img src="https://readme-jokes.vercel.app/api?bgColor=%230c1414&color=%232596be" alt="Error fetching resource, Refresh again to view Jokes Card" width='11000' />
+### Embrace the fun:
+<a><img src="https://readme-jokes.vercel.app/api?bgColor=%230c1414&theme=tokyonight" alt="Error fetching resource, Refresh again to view Jokes Card" width='11000'></a>
 
 <details>
 <summary><samp><b>&#9776;See more details</b></samp></summary>
@@ -58,15 +58,14 @@
  
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="300" frameBorder="0" class="giphy-embed">
 
-<a href="https://github.com/Saket2701"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Saket2701&theme=radical&title_color=ff3068"></a>
+<a href="https://github.com/Saket2701"><img width="50%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saket2701&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></a>
 
-<a href="https://github.com/Saket2701"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Saket2701&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a><td>
+<a href="https://github.com/Saket2701"><img width="50%" height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=Saket2701&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
-<a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket2701&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=141321&theme=radical&text_color=81A1C1&title_color=ff3068&icon_color=ff3068"/></a></td>
+<a href="https://github.com/Saket2701"><img width="50%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saket2701&layout=compact&langs_count=4&theme=tokyonight"></a>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Saket2701&theme=dracula)
+<a href="https://github.com/Saket2701"><img width="70%" height="180em" src="https://github-profile-trophy.vercel.app/?username=Saket2701&theme=tokyonight"></a>
 
-<br>
 <p align="left">
   <a href="https://github.com/Saket2701?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
