@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saket2701&label=Profile%20views&color=0e75b6&style=flat" alt="saket2701" /> </p>
 
-- 📫 How to reach me - <a href="mailto:saketb2003@gmail.com"><img src="https://img.shields.io/badge/-saketb2003@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+- 📬 **Connect with Me --** <a href="mailto:saketb2003@gmail.com"><img src="https://img.shields.io/badge/saketb2003@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-- 📄 Here is my Resume - [![CV](https://img.shields.io/static/v1?label=🔗&message=Doc&color=blue)](https://drive.google.com/file/d/1xzCk8MY2rVC-UyHpXjLiOClEjBRBjS6L/view?usp=sharing)
+- 📄 **Check Out My Resume --** [![CV](https://img.shields.io/static/v1?label=🔗&message=Resume&color=blue)](https://drive.google.com/file/d/1xzCk8MY2rVC-UyHpXjLiOClEjBRBjS6L/view?usp=sharing)
 
-- To know about me 👨‍💻 visit my Personal Website - [![Portfolio](https://img.shields.io/static/v1?label=🌱&message=Portfolio&color=tokyonight)](https://saket2701.github.io/My_Portfolio/)
+- 💻 **Explore My World --** [![Portfolio](https://img.shields.io/static/v1?label=🌐&message=Portfolio&color=tokyonight)](https://saket2701.github.io/My_Portfolio/)
   
-- 👯 I’m looking to collaborate on **different projects and new ideas**
+- 👥 **Open for Collaboration:** Seeking opportunities to contribute to diverse projects and embrace fresh ideas.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,12 +47,11 @@
 </div>
 <br>
 
-### Embrace the fun:
+### Found It Funny:
 <a><img src="https://readme-jokes.vercel.app/api?bgColor=%230c1414&theme=tokyonight" alt="Error fetching resource, Refresh again to view Jokes Card" width='11000'></a>
 
 <details>
-<summary><samp><b>&#9776;See more details</b></samp></summary>
-</summary>
+<summary><samp><b>🔍 Explore More</b></samp></summary>
   
  ## 🔥 GitHub Stats
  
