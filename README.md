@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saket2701&label=Profile%20views&color=0e75b6&style=flat" alt="saket2701" /> </p>
 
-- 📫 How to reach me - <a href="saketb2003@gmail.com"><img src="https://img.shields.io/badge/-saketb2003@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+- 📫 How to reach me - <a href="mailto:saketb2003@gmail.com"><img src="https://img.shields.io/badge/-saketb2003@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 - 📄 Here is my Resume - [![CV](https://img.shields.io/static/v1?label=🔗&message=Doc&color=blue)](https://drive.google.com/file/d/1xzCk8MY2rVC-UyHpXjLiOClEjBRBjS6L/view?usp=sharing)
 
