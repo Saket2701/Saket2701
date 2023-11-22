@@ -12,9 +12,7 @@
 
 - 📬 **Connect with Me --** <a href="mailto:saketb2003@gmail.com"><img src="https://img.shields.io/badge/saketb2003@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-- 📄 **Check Out My Resume --** [![CV](https://img.shields.io/static/v1?label=🔗&message=Resume&color=blue)]()
-- [Saket_CV.pdf](https://github.com/Saket2701/Saket2701/files/13442919/Saket_CV.pdf
-)
+- 📄 **Check Out My Resume --** [![CV](https://img.shields.io/static/v1?label=🔗&message=Resume&color=blue)](https://github.com/Saket2701/Saket2701/files/13442919/Saket_CV.pdf)
 
 - 💻 **Explore My World --** [![Portfolio](https://img.shields.io/static/v1?label=🌐&message=Portfolio&color=tokyonight)](https://saket2701.github.io/My_Portfolio/)
   
