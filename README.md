@@ -12,7 +12,9 @@
 
 - 📬 **Connect with Me --** <a href="mailto:saketb2003@gmail.com"><img src="https://img.shields.io/badge/saketb2003@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-- 📄 **Check Out My Resume --** [![CV](https://img.shields.io/static/v1?label=🔗&message=Resume&color=blue)](https://doc-0c-bs-prod-02-apps-viewer.googleusercontent.com/viewer2/prod-02/pdf/k6ovbn38aim0j10gibj1ajo1lcq0b0i5/nlftp141t6b7d5ak7tj0h5l4useo6mp1/1700674800000/3/109223118157854186202/APznzaaBS1pcMhHMsaieC7TghYguHJbll59CGyqZWwzAMZPzCgXIymYeutuhEC7pLKnUiU0Y-O__25RSGHDp9trnKVjPkdprN14ck71vSRvPt2rCRekcGtA41NUZZfNjCjvp4f2jsZcTlaufAPltrl6cFW5sFsHpFIOEI_kIxJ5IC-VmP130frbQPqTTwD5nF1Li4h8D1sMWSKoP18nmNRz7gw778N8zfgT4ibkOfekqffkY_HwrnV7FDpHzZwx93EneWuZdlhFQadtL_HOlf81UVdSfY9UUrxrzZ0ftUnRNI2cBpFi1I5bctapWlbGEByN7qfSJsEuo80Hho6ZEwlsXh8L5p8mBivIKj7qTiT0EOVcxgCxNPPdcwzQCvPpyK430_TO-GxP1i-vkMYWAQV37q8m40ZzlfV5OLDGhz7pBFEWNdadRkCM=?authuser=0&nonce=p7blrdrspbubc&user=109223118157854186202&hash=8k2hlfi4liv46hjl3rql7spcsuot6osc)
+- 📄 **Check Out My Resume --** [![CV](https://img.shields.io/static/v1?label=🔗&message=Resume&color=blue)]()
+- [Saket_CV.pdf](https://github.com/Saket2701/Saket2701/files/13442919/Saket_CV.pdf
+)
 
 - 💻 **Explore My World --** [![Portfolio](https://img.shields.io/static/v1?label=🌐&message=Portfolio&color=tokyonight)](https://saket2701.github.io/My_Portfolio/)
   
