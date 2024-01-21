@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Saket+💡;Transforming+Ideas+into+Code+💻;Let's+build+awesome+things!&size=25">
 </a>
 </h1>
-<h3 align="center">I am pursuing web development in HTML, CSS, JavaScript. I am gaining knowledge of popular frameworks such as ASP.NET, and tools like Power BI. Constantly making efforts to evolve. I am highly motivated to contribute my full range of skills and abilities towards achieving the goals of any organization.</h3>
+<h3 align="center">I am a motivated web developer specializing in frameworks like ASP.NET and PHP Laravel, alongside tools such as Power BI. Committed to ongoing growth, I am eager to contribute my skills and dedication to achieving organizational goals.</h3>
 
 <img align="right" alt="Naruto" width="200" src="https://i.imgur.com/Tznn1IZ.gif">
 
